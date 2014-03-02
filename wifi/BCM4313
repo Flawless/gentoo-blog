@@ -1,0 +1,9 @@
+kernel:
+	[*]BCMA
+	[*]BRCMSMAC
+	[*]LIB80211
+	[*]LIB802011_CRYPT_TKIP
+ 	[ ]B43
+под вопросом:
+	bcm43xx-fwcutter
+	broadcom-sta
